@@ -1,3 +1,8 @@
 Ya tenemos ventiladores nuevos!! :D
+<<<<<<< HEAD
 I molt silenciosos!!
 sadafsfda
+=======
+Modifico el ventilador
+I molt silenciosos!!
+>>>>>>> 6c1163187053917d86ae7350086adefb1ad0a83f
