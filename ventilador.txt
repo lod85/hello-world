@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ya tenemos ventiladores nuevos!! :D
 <<<<<<< HEAD
 I molt silenciosos!!
@@ -6,3 +7,10 @@ sadafsfda
 Modifico el ventilador
 I molt silenciosos!!
 >>>>>>> 6c1163187053917d86ae7350086adefb1ad0a83f
+=======
+Modifico el ventilador
+Los más ruidosos del mundo.
+I molt silenciosos!!
+El ventilador sagitario surt a una canÃ§Ã³. Ara estic a una branca anomenada Sagita.
+S'esta mes fresquet
+>>>>>>> b0e1b4ed117c35baf41e3e18c0be2f660b69e3e8
